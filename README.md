@@ -1,88 +1,143 @@
-## 🚀 Featured Projects
+# 👋 Hi, I'm Umesh Kumar Shah
 
-### 🛒 E-commerce Web Application (Full Stack)
-A scalable e-commerce platform designed to simulate real-world online shopping systems with secure authentication and dynamic product management.
-
-🔹 Key Features:
-- 🔐 User authentication & authorization (login/signup)
-- 🛍️ Product listing with dynamic rendering
-- 🛒 Cart management & order flow
-- 📦 Backend APIs for product & user handling
-
-🔹 Tech Stack:
-React • Node.js • Express • MongoDB • MySQL  
-
-🔹 What I Learned:
-- Designing RESTful APIs  
-- Managing state in frontend applications  
-- Handling full-stack data flow  
+🚀 Full Stack Developer focused on building scalable web applications  
+💡 I turn ideas into real-world products using React, Node.js & databases  
+📍 Bengaluru, India  
 
 ---
 
-### 🎓 Student Management System *(Ongoing)*
-A real-world system aimed at managing student records, improving administrative efficiency, and simulating enterprise-level application structure.
+## 🔥 What Makes Me Different
 
-🔹 Key Features:
-- 📊 CRUD operations for student data  
-- 🔍 Search & filtering functionality  
-- 📁 Structured backend for scalability  
-
-🔹 Tech Stack:
-React • MongoDB  
-
-🔹 Focus Area:
-- Clean architecture  
-- Scalable backend design  
+- I don’t just learn — I **build real-world applications**
+- Strong focus on **backend logic, APIs, and scalability**
+- Actively improving **Data Structures & Algorithms + System Design**
 
 ---
 
-### 📋 Lavoro Daily Assignment System
-A productivity-focused web app to track daily assignments and improve task management for students.
+## 🚀 Current Focus
 
-🔹 Key Features:
-- ✅ Task creation and tracking  
-- 📅 Daily assignment organization  
-- ⚡ Lightweight and fast UI  
+- 🧠 Practicing DSA (TakeUForward roadmap)  
+- ⚙️ Building full-stack applications with clean architecture  
+- 📈 Improving backend performance & database design  
 
-🔹 Tech Stack:
-HTML • CSS • JavaScript  
+---
 
-🔹 What I Learned:
-- DOM manipulation  
-- UI structuring & responsiveness  
+## 🛠️ Tech Stack
+
+**💻 Languages:**  
+JavaScript • TypeScript • C • C++ • Java  
+
+**🎨 Frontend:**  
+React • Next.js • HTML • CSS  
+
+**🧠 Backend:**  
+Node.js • Express.js  
+
+**🗄️ Databases:**  
+MongoDB • MySQL  
+
+**🛠️ Tools:**  
+Git • GitHub  
+
+---
+
+## 💼 Featured Projects
+
+### 🛒 E-Commerce Platform
+👉 Full-stack application with authentication, cart & product management  
+
+**Key Features:**
+- User authentication (login/signup)
+- Product listing & management  
+- Shopping cart system  
+- RESTful API architecture  
+
+**Tech Stack:** React • Node.js • Express • MongoDB  
+
+---
+
+### 🎓 Student Management System *(In Progress)*
+👉 Scalable system to manage student data and operations  
+
+**Key Features:**
+- CRUD operations  
+- Structured backend design  
+- Database integration  
+
+**Tech Stack:** React • MongoDB  
+
+---
+
+### 📋 Lavoro – Task Management System
+👉 Productivity system to track daily assignments  
+
+**Key Features:**
+- Task tracking  
+- Simple and clean UI  
+- Lightweight system design  
+
+**Tech Stack:** HTML • CSS • JavaScript  
 
 ---
 
 ### 🎉 Eventics – Event Management System
-A web-based platform for managing events, participants, and scheduling workflows.
+👉 Platform for managing events and participants  
 
-🔹 Key Features:
-- 📅 Event scheduling & tracking  
-- 👥 Participant management  
-- 📋 Structured event workflows  
+**Key Features:**
+- Event creation & management  
+- Participant tracking  
 
-🔹 Tech Stack:
-HTML • CSS • JavaScript  
-
-🔹 What I Learned:
-- Structuring multi-page applications  
-- Handling user interaction flows  
+**Tech Stack:** HTML • CSS • JavaScript  
 
 ---
 
 ### 🌐 Portfolio Website
 🔗 https://umeshshah.in  
 
-An interactive personal portfolio designed to showcase projects, skills, and development journey.
+👉 Interactive portfolio showcasing projects and skills  
 
-🔹 Key Features:
-- 🌌 Modern UI with smooth navigation  
-- 📱 Fully responsive design  
-- 🚀 Optimized performance  
+**Tech Stack:** React • Next.js • CSS  
 
-🔹 Tech Stack:
-React • Next.js • CSS  
+---
 
-🔹 Focus:
-- UI/UX design  
-- Personal branding  
+## 📊 GitHub Stats
+
+![Umesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=umeshkumar-git&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umeshkumar-git)
+
+---
+
+## 📜 Certifications
+
+- Generative AI Mastermind – Outskill (2026)  
+- AI Tools & ChatGPT Workshop – be10x  
+- AI Agents Intensive Course – Kaggle / Google  
+
+---
+
+## 🧠 Core Skills
+
+Problem Solving • Backend Development • API Design • Debugging • Self-Learning  
+
+---
+
+## 🏆 Achievements
+
+- Practicing Data Structures & Algorithms (TakeUForward)  
+
+---
+
+## 📬 Let's Connect
+
+- 📧 Email: me@umeshshah.in  
+- 💼 LinkedIn: https://linkedin.com/in/umesh-kumar-shah  
+- 💻 GitHub: https://github.com/umeshkumar-git  
+
+---
+
+## ⚡ Final Note
+
+I’m focused on becoming a strong software engineer by building real-world applications and continuously improving my problem-solving skills.
+
+⭐ If you find my work interesting, feel free to explore my repositories and connect with me!
