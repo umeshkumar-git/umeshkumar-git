@@ -1,107 +1,95 @@
-# Hello, I'm Umesh Kumar Shah 👋
+# 👋 Hi, I'm Umesh Kumar Shah
 
 ![Profile Views](https://komarev.com/ghpvc/?username=umeshkumarshah&color=blue)
 
-Welcome to my GitHub!
-
-I’m a Computer Science Engineering student at Bangalore Technological Institute, currently focused on building strong fundamentals in software engineering and developing real-world web applications.
-
----
-
-## 🚀 About Me
-
-- 🎓 Pursuing B.E. in Computer Science Engineering (CGPA: 8.12)  
-- 💻 Passionate about Web Development and Software Engineering  
-- 🧠 Strong interest in Data Structures and Algorithms  
-- 🚀 Actively building real-world projects  
-- 📍 Based in Bengaluru, India  
+🚀 Aspiring Software Engineer | Full Stack Developer  
+💡 Building real-world web applications & improving problem-solving skills  
+📍 Bengaluru, India  
 
 ---
 
-## 💻 Technical Skills
+## 🚀 What I'm Currently Doing
 
-## 💻 Tech Stack
-
-### Languages
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+- 🔨 Building **full-stack applications** with React & Node.js  
+- 🌐 Working on **Student Management System** (React + MongoDB)  
+- 🧠 Practicing **Data Structures & Algorithms** (TakeUForward)  
+- 🎯 Improving **system design & backend fundamentals**
 
 ---
 
-### Frontend & Libraries
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+## 🧩 About Me
+
+- 🎓 B.E. in Computer Science Engineering (CGPA: 8.12)  
+- 💻 Passionate about Web Development & Software Engineering  
+- 🚀 Focused on building projects that solve real problems  
+- 📚 Continuous learner exploring modern technologies  
 
 ---
 
-### Backend & Tools
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
-[![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+## ⚙️ Tech Stack
+
+### 💻 Languages
+JavaScript • TypeScript • C • C++ • Java  
+
+### 🎨 Frontend
+React • Next.js • HTML • CSS  
+
+### 🧠 Backend
+Node.js • Express.js  
+
+### 🗄️ Databases
+MongoDB • MySQL  
+
+### 🛠️ Tools
+Git • GitHub  
 
 ---
 
-### Frameworks
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+## 🚀 Featured Projects
+
+### 🛒 E-commerce Web Application
+Full-stack application with authentication, product management, and cart system  
+
+**Tech:** React • Node.js • Express • MongoDB • MySQL  
 
 ---
 
-### Databases
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+### 🎓 Student Management System *(Ongoing)*
+A scalable system to manage student data and operations  
 
----
-
-## 🛠️ Projects
-
-## 🛠️ Projects
-
-### 🛒 E-commerce Web Application (Full Stack)
-A full-stack platform enabling product browsing, cart management, and secure authentication.  
-
-**Tech Stack:**  
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
-[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+**Tech:** React • MongoDB  
 
 ---
 
 ### 📋 Lavoro Daily Assignment System
-A task management system designed to track assignments and improve productivity.  
+Task management system to track assignments and productivity  
 
-**Tech Stack:**  
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+**Tech:** HTML • CSS • JavaScript  
 
 ---
 
 ### 🎉 Eventics – Event Management System
-An event management platform for scheduling and tracking participants.  
+Platform for managing events and participant tracking  
 
-**Tech Stack:**  
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+**Tech:** HTML • CSS • JavaScript  
 
 ---
 
 ### 🌐 Portfolio Website
-A personal portfolio to showcase my work and skills.  
-
 🔗 https://umeshshah.in  
 
-**Tech Stack:**  
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+Interactive portfolio showcasing projects and skills  
+
+**Tech:** React • Next.js • CSS  
+
+---
+
+## 📊 GitHub Stats
+
+![Umesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=umeshkumar-git&show_icons=true&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umeshkumar-git)
+
 ---
 
 ## 📜 Certifications
@@ -134,6 +122,6 @@ Problem Solving • Self-Learning • Teamwork • Leadership • Adaptability �
 
 ## ✨ Final Note
 
-I’m currently focused on improving my development skills and looking for opportunities where I can contribute, learn, and grow as a developer.
+I’m focused on becoming a strong software engineer by building real-world applications and continuously improving my problem-solving skills.
 
-⭐ If you like my work, feel free to explore my repositories and connect with me!
+⭐ If you find my work interesting, feel free to explore my repositories and connect with me!
