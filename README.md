@@ -1,15 +1,29 @@
-## 💫 About Me  
+# 💫 About Me:
 
-🚀 **Full Stack Developer | Aspiring Software Engineer**  
-💡 Focused on building scalable systems and improving problem-solving skills  
-📍 Bengaluru, India  
+**Full Stack Developer | Software Engineer**
 
-🔭 Currently building **full-stack web applications** with scalable backend architecture  
-👯 Open to collaborating on **real-world projects and open-source contributions**  
-🤝 Looking for guidance in **system design and high-performance backend development**  
-🌱 Actively learning **Data Structures & Algorithms + System Design**  
-💬 Ask me about **React, Node.js, APIs, and full-stack development**  
-⚡ Fun fact: I prefer **building projects over just consuming tutorials**  
+Building scalable web applications & mastering problem-solving.
+
+📍 **Bengaluru, India**
+
+**🔭 Currently working on**
+Full-stack web apps with React, Node.js, TypeScript. Focus on scalability & performance optimization.
+
+**👯 Looking to collaborate on**
+Open-source projects, backend systems, DevOps tooling, microservices, and distributed systems.
+
+**🤝 Looking for help with**
+System design, database optimization, CI/CD pipelines, and software architecture patterns.
+
+**🌱 Currently learning**
+Advanced TypeScript, distributed systems, Docker/Kubernetes, infrastructure-as-code, cloud-native development.
+
+**💬 Ask me about**
+Full-stack dev, API design, database optimization, debugging, code review, tech stack decisions.
+
+**⚡ Fun fact**
+Debug faster with coffee. Passionate about clear documentation & mentoring junior devs.
+
 
 ---
 
