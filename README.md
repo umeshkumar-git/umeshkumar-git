@@ -1,103 +1,35 @@
-# 👋 Hi there, I'm Umesh Kumar Shah  
+## 💫 About Me  
 
-  **Full Stack Developer | Aspiring Software Engineer**  
-  Building scalable web applications & mastering problem solving  
+🚀 **Full Stack Developer | Aspiring Software Engineer**  
+💡 Focused on building scalable systems and improving problem-solving skills  
 📍 Bengaluru, India  
 
----
-
-##  What Sets Me Apart  
-
-- I focus on **building production-ready applications**, not just tutorials  
-- Strong interest in **backend systems, APIs, and scalability**  
-- Consistently improving in **Data Structures & Algorithms + System Design**  
-
----
-
-##  Current Focus  
-
-- 🧠 DSA (TakeUForward Roadmap)  
-- ⚙️ Designing clean, scalable full-stack architectures  
-- 📈 Backend optimization & efficient database design  
-
----
-
-## 🛠️ Tech Stack  
-
-###  When I code, I rely on  
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=fff)
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=fff)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=fff)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=000)
+🔭 Currently building **full-stack web applications** with scalable backend architecture  
+👯 Open to collaborating on **real-world projects and open-source contributions**  
+🤝 Looking for guidance in **system design and high-performance backend development**  
+🌱 Actively learning **Data Structures & Algorithms + System Design**  
+💬 Ask me about **React, Node.js, APIs, and full-stack development**  
+⚡ Fun fact: I prefer **building projects over just consuming tutorials**  
 
 ---
 
 
 
-### 🌐 Portfolio Website  
-🔗 https://umeshshah.in  
+## 🌐 Socials:
 
-👉 Interactive portfolio showcasing projects & skills  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://umeshshah.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umesh-kumar-shah)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imumeshshah)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me@umeshshah.in)
 
-**Tech Stack:** React · Next.js · CSS  
-
----
-
-## 📊 GitHub Stats  
-
-![Umesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=umeshkumar-git&show_icons=true&theme=tokyonight)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umeshkumar-git&theme=tokyonight)
-
----
-
-## 📜 Certifications  
-
-- Generative AI Mastermind – Outskill (2026)  
-- AI Tools & ChatGPT Workshop – be10x  
-- AI Agents Intensive – Kaggle / Google  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=umeshkumar-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=umeshkumar-git&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=umeshkumar-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=umeshkumar-git&icon=4&color=0)](https://visitcount.itsvg.in)
 
-## 🧠 Core Skills  
-
-`Problem Solving` · `Backend Development` · `API Design` · `Debugging` · `Self-Learning`  
-
----
-
-## 🏆 Achievements  
-
-- Consistent practice in DSA (TakeUForward roadmap)  
-
----
-
-## 📬 Connect With Me  
-
-- 📧 Email: me@umeshshah.in  
-- 💼 LinkedIn: https://linkedin.com/in/umesh-kumar-shah  
-- 💻 GitHub: https://github.com/umeshkumar-git  
-
----
-
-## ⚡ Final Note  
-
-I’m focused on becoming a **high-impact software engineer** by building real-world systems and continuously improving my problem-solving ability.  
-
-⭐ If my work interests you, feel free to explore my repositories and connect.  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
