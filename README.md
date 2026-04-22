@@ -1,127 +1,88 @@
-# 👋 Hi, I'm Umesh Kumar Shah
-
-![Profile Views](https://komarev.com/ghpvc/?username=umeshkumarshah&color=blue)
-
-🚀 Aspiring Software Engineer | Full Stack Developer  
-💡 Building real-world web applications & improving problem-solving skills  
-📍 Bengaluru, India  
-
----
-
-## 🚀 What I'm Currently Doing
-
-- 🔨 Building **full-stack applications** with React & Node.js  
-- 🌐 Working on **Student Management System** (React + MongoDB)  
-- 🧠 Practicing **Data Structures & Algorithms** (TakeUForward)  
-- 🎯 Improving **system design & backend fundamentals**
-
----
-
-## 🧩 About Me
-
-- 🎓 B.E. in Computer Science Engineering (CGPA: 8.12)  
-- 💻 Passionate about Web Development & Software Engineering  
-- 🚀 Focused on building projects that solve real problems  
-- 📚 Continuous learner exploring modern technologies  
-
----
-
-## ⚙️ Tech Stack
-
-### 💻 Languages
-JavaScript • TypeScript • C • C++ • Java  
-
-### 🎨 Frontend
-React • Next.js • HTML • CSS  
-
-### 🧠 Backend
-Node.js • Express.js  
-
-### 🗄️ Databases
-MongoDB • MySQL  
-
-### 🛠️ Tools
-Git • GitHub  
-
----
-
 ## 🚀 Featured Projects
 
-### 🛒 E-commerce Web Application
-Full-stack application with authentication, product management, and cart system  
+### 🛒 E-commerce Web Application (Full Stack)
+A scalable e-commerce platform designed to simulate real-world online shopping systems with secure authentication and dynamic product management.
 
-**Tech:** React • Node.js • Express • MongoDB • MySQL  
+🔹 Key Features:
+- 🔐 User authentication & authorization (login/signup)
+- 🛍️ Product listing with dynamic rendering
+- 🛒 Cart management & order flow
+- 📦 Backend APIs for product & user handling
+
+🔹 Tech Stack:
+React • Node.js • Express • MongoDB • MySQL  
+
+🔹 What I Learned:
+- Designing RESTful APIs  
+- Managing state in frontend applications  
+- Handling full-stack data flow  
 
 ---
 
 ### 🎓 Student Management System *(Ongoing)*
-A scalable system to manage student data and operations  
+A real-world system aimed at managing student records, improving administrative efficiency, and simulating enterprise-level application structure.
 
-**Tech:** React • MongoDB  
+🔹 Key Features:
+- 📊 CRUD operations for student data  
+- 🔍 Search & filtering functionality  
+- 📁 Structured backend for scalability  
+
+🔹 Tech Stack:
+React • MongoDB  
+
+🔹 Focus Area:
+- Clean architecture  
+- Scalable backend design  
 
 ---
 
 ### 📋 Lavoro Daily Assignment System
-Task management system to track assignments and productivity  
+A productivity-focused web app to track daily assignments and improve task management for students.
 
-**Tech:** HTML • CSS • JavaScript  
+🔹 Key Features:
+- ✅ Task creation and tracking  
+- 📅 Daily assignment organization  
+- ⚡ Lightweight and fast UI  
+
+🔹 Tech Stack:
+HTML • CSS • JavaScript  
+
+🔹 What I Learned:
+- DOM manipulation  
+- UI structuring & responsiveness  
 
 ---
 
 ### 🎉 Eventics – Event Management System
-Platform for managing events and participant tracking  
+A web-based platform for managing events, participants, and scheduling workflows.
 
-**Tech:** HTML • CSS • JavaScript  
+🔹 Key Features:
+- 📅 Event scheduling & tracking  
+- 👥 Participant management  
+- 📋 Structured event workflows  
+
+🔹 Tech Stack:
+HTML • CSS • JavaScript  
+
+🔹 What I Learned:
+- Structuring multi-page applications  
+- Handling user interaction flows  
 
 ---
 
 ### 🌐 Portfolio Website
 🔗 https://umeshshah.in  
 
-Interactive portfolio showcasing projects and skills  
+An interactive personal portfolio designed to showcase projects, skills, and development journey.
 
-**Tech:** React • Next.js • CSS  
+🔹 Key Features:
+- 🌌 Modern UI with smooth navigation  
+- 📱 Fully responsive design  
+- 🚀 Optimized performance  
 
----
+🔹 Tech Stack:
+React • Next.js • CSS  
 
-## 📊 GitHub Stats
-
-![Umesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=umeshkumar-git&show_icons=true&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umeshkumar-git)
-
----
-
-## 📜 Certifications
-
-- Generative AI Mastermind – Outskill (2026)  
-- AI Tools & ChatGPT Workshop – be10x (2026)  
-- AI Agents Intensive Course – Kaggle / Google (2025)  
-
----
-
-## 🏆 Achievements
-
-- Practicing Data Structures and Algorithms (TakeUForward)  
-
----
-
-## 🧠 Soft Skills
-
-Problem Solving • Self-Learning • Teamwork • Leadership • Adaptability • Presentation  
-
----
-
-## 🤝 Let's Connect
-
-- 📧 Email: me@umeshshah.in  
-- 💼 LinkedIn: https://linkedin.com/in/umesh-kumar-shah  
-- 💻 GitHub: https://github.com/umeshkumar-git  
-
----
-
-## ✨ Final Note
-
-I’m focused on becoming a strong software engineer by building real-world applications and continuously improving my problem-solving skills.
-
-⭐ If you find my work interesting, feel free to explore my repositories and connect with me!
+🔹 Focus:
+- UI/UX design  
+- Personal branding  
