@@ -1,134 +1,94 @@
-# 👋 Hi, I'm Umesh Kumar Shah
+# 👋 Hi there, I'm Umesh Kumar Shah  
 
-🚀 Full Stack Developer focused on building scalable web applications  
-💡 I turn ideas into real-world products using React, Node.js & databases  
+  **Full Stack Developer | Aspiring Software Engineer**  
+  Building scalable web applications & mastering problem solving  
 📍 Bengaluru, India  
 
 ---
 
-## 🔥 What Makes Me Different
+##  What Sets Me Apart  
 
-- I don’t just learn — I **build real-world applications**
-- Strong focus on **backend logic, APIs, and scalability**
-- Actively improving **Data Structures & Algorithms + System Design**
-
----
-
-## 🚀 Current Focus
-
-- 🧠 Practicing DSA (TakeUForward roadmap)  
-- ⚙️ Building full-stack applications with clean architecture  
-- 📈 Improving backend performance & database design  
+- I focus on **building production-ready applications**, not just tutorials  
+- Strong interest in **backend systems, APIs, and scalability**  
+- Consistently improving in **Data Structures & Algorithms + System Design**  
 
 ---
 
-## 🛠️ Tech Stack
+##  Current Focus  
 
-**💻 Languages:**  
-JavaScript • TypeScript • C • C++ • Java  
-
-**🎨 Frontend:**  
-React • Next.js • HTML • CSS  
-
-**🧠 Backend:**  
-Node.js • Express.js  
-
-**🗄️ Databases:**  
-MongoDB • MySQL  
-
-**🛠️ Tools:**  
-Git • GitHub  
+- 🧠 DSA (TakeUForward Roadmap)  
+- ⚙️ Designing clean, scalable full-stack architectures  
+- 📈 Backend optimization & efficient database design  
 
 ---
 
-## 💼 Featured Projects
+## 🛠️ Tech Stack  
 
-### 🛒 E-Commerce Platform
-👉 Full-stack application with authentication, cart & product management  
+###  When I code, I rely on  
 
-**Key Features:**
-- User authentication (login/signup)
-- Product listing & management  
-- Shopping cart system  
-- RESTful API architecture  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=fff)
 
-**Tech Stack:** React • Node.js • Express • MongoDB  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=fff)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=fff)
 
-### 🎓 Student Management System *(In Progress)*
-👉 Scalable system to manage student data and operations  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
 
-**Key Features:**
-- CRUD operations  
-- Structured backend design  
-- Database integration  
-
-**Tech Stack:** React • MongoDB  
-
----
-
-### 📋 Lavoro – Task Management System
-👉 Productivity system to track daily assignments  
-
-**Key Features:**
-- Task tracking  
-- Simple and clean UI  
-- Lightweight system design  
-
-**Tech Stack:** HTML • CSS • JavaScript  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=000)
 
 ---
 
-### 🎉 Eventics – Event Management System
-👉 Platform for managing events and participants  
 
-**Key Features:**
-- Event creation & management  
-- Participant tracking  
 
-**Tech Stack:** HTML • CSS • JavaScript  
-
----
-
-### 🌐 Portfolio Website
+### 🌐 Portfolio Website  
 🔗 https://umeshshah.in  
 
-👉 Interactive portfolio showcasing projects and skills  
+👉 Interactive portfolio showcasing projects & skills  
 
-**Tech Stack:** React • Next.js • CSS  
-
----
-
-## 📊 GitHub Stats
-
-![Umesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=umeshkumar-git&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umeshkumar-git)
+**Tech Stack:** React · Next.js · CSS  
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Stats  
+
+![Umesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=umeshkumar-git&show_icons=true&theme=tokyonight)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umeshkumar-git&theme=tokyonight)
+
+---
+
+## 📜 Certifications  
 
 - Generative AI Mastermind – Outskill (2026)  
 - AI Tools & ChatGPT Workshop – be10x  
-- AI Agents Intensive Course – Kaggle / Google  
+- AI Agents Intensive – Kaggle / Google  
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Core Skills  
 
-Problem Solving • Backend Development • API Design • Debugging • Self-Learning  
-
----
-
-## 🏆 Achievements
-
-- Practicing Data Structures & Algorithms (TakeUForward)  
+`Problem Solving` · `Backend Development` · `API Design` · `Debugging` · `Self-Learning`  
 
 ---
 
-## 📬 Let's Connect
+## 🏆 Achievements  
+
+- Consistent practice in DSA (TakeUForward roadmap)  
+
+---
+
+## 📬 Connect With Me  
 
 - 📧 Email: me@umeshshah.in  
 - 💼 LinkedIn: https://linkedin.com/in/umesh-kumar-shah  
@@ -136,8 +96,8 @@ Problem Solving • Backend Development • API Design • Debugging • Self-Le
 
 ---
 
-## ⚡ Final Note
+## ⚡ Final Note  
 
-I’m focused on becoming a strong software engineer by building real-world applications and continuously improving my problem-solving skills.
+I’m focused on becoming a **high-impact software engineer** by building real-world systems and continuously improving my problem-solving ability.  
 
-⭐ If you find my work interesting, feel free to explore my repositories and connect with me!
+⭐ If my work interests you, feel free to explore my repositories and connect.  
