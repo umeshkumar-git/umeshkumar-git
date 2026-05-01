@@ -3,19 +3,19 @@
 </p>
 
 <h1 align="center">Umesh Kumar Shah</h1>
-<h3 align="center">🚀 Full Stack Developer | Software Engineer</h3>
+<h3 align="center"> Full Stack Developer | Software Engineer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/umesh-kumar-shah-1375652ba/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/umeshkumar-git">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://umeshshah.in">
     <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:me@umeshshah.in">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
