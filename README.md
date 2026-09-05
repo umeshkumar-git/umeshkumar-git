@@ -2,8 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Umesh%20Kumar%20Shah&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
-<h1 align="center">Umesh Kumar Shah</h1>
-<h3 align="center"> Full Stack Developer | Software Engineer</h3>
+<h3 align="center">  Software Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/umesh-kumar-shah-1375652ba/">
